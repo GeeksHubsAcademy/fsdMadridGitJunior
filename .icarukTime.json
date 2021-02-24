@@ -1,0 +1,11 @@
+{
+    "idleHeartbeats": 0,
+    "navigatingHeartbeats": 11,
+    "totalCodingHeartbeats": 3,
+    "languageHeartbeats": {
+        "html": 3
+    },
+    "fileHeartbeats": {
+        "index.html": 3
+    }
+}
